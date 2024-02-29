@@ -1,5 +1,5 @@
 # Quintus
-A Decentralized Chat
+# A Decentralized Chat
 CBP35
 Student Innovation
 Blockchain & Cybersecurity
